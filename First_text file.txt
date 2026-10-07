@@ -1,1 +1,6 @@
-This is a text file for git  series.
+This is a text file  git  series.
+
+
+#This is a change to my code
+
+print("I love merging and branching")
